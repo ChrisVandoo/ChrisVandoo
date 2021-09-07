@@ -1,4 +1,4 @@
-**Technical Skills:** Python, Go, C, Github, AWS, Jenkins, Bazel, Flask
+Hi, and welcome to my Github page!
 
 ## Projects
 
